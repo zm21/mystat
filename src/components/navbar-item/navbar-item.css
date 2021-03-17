@@ -1,0 +1,70 @@
+.navbar{
+    background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.avatar-cont{
+    width: 64px;
+    height: 64px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.avatar{ 
+    width: 64px;
+    height: 116px;
+}
+
+
+.point{
+    color: rgb(162, 76, 206);
+}
+
+.coin{
+    color: goldenrod;
+}
+
+.diamond{
+    color: rgb(0, 132, 255);
+}
+
+.info{
+    color: rgb(228, 228, 228);
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.revard-cont{
+    padding-top: 10px;
+}
+
+.revardsBlock span{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.revardsBlock{
+    background-color: rgba(70, 99, 156, 0.377);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3%;
+}
+
+.btn-cont{
+    padding:0px 10px;
+}
+
+.mystat-btn{
+    width: 58px;
+    height: 58px;
+}
+
+.mystat-btn:hover{
+    opacity: 0.5;
+}

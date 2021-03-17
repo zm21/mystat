@@ -1,0 +1,12 @@
+.block-student-inf{
+    display: flex;
+    justify-content: space-between;
+}
+
+.active{
+    color:  rgb(1, 174, 180);
+}
+
+.point{
+    color: rgb(162, 76, 206);
+}
